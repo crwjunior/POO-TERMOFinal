@@ -1,0 +1,3 @@
+Neste repositório encontra-se o código-fonte do clone do jogo de navegador "Term.ooo" em Java. O jogo foi desenvolvido através da IDE "IntelliJ IDEA" e pode ser executado em qualquer sistema operacional. Para jogar o jogo, basta baixar o código e executá-lo em uma IDE que contenha JDK versão 21.
+
+O jogo consiste em tentar acertar uma palavra existente na língua portuguesa em até 6 tentativas. Conforme os chutes são enviados ao jogo, você depara-se com 3 cores nas letras. Amarelo, que significa que a letra existe na palavra mas está no local errado, Preto, que significa que a letra não existe na palavra, e Verde, que indica que a letra existe na palavra e está no local certo.
